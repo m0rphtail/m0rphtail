@@ -7,3 +7,5 @@ Things I do:<br>
 <img align="right" width="36%" src="https://github.com/m0rphtail/m0rphtail/blob/master/media/69.jpg" alt="cover" />
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rphtail&layout=compact)
+<br>
+![](https://visitor-badge.glitch.me/badge?page_id=m0rphtail)
