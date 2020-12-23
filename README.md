@@ -6,6 +6,6 @@ Things I do:<br>
 ![m0rphtail's github stats](https://github-readme-stats.vercel.app/api?username=m0rphtail&hide_border=true&show_icons=true&theme=react)
 <img align="right" width="36%" src="https://github.com/m0rphtail/m0rphtail/blob/master/media/69.jpg" alt="cover" />
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rphtail&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0rphtail&layout=compact&theme=react&hide_border=true)
 <br>
 ![](https://visitor-badge.glitch.me/badge?page_id=m0rphtail)
